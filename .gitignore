@@ -1,0 +1,6 @@
+# Папки #
+source/*
+build/*
+node_modules/*
+
+# Файлы #

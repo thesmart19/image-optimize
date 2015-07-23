@@ -1,0 +1,18 @@
+{
+  "name": "odinshag-images",
+  "version": "1.0.0",
+  "description": "This is repository of Grunt tasks for image optimization.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexandr Skoblov",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-base64": "^0.1.0",
+    "grunt-contrib-imagemin": "^0.9.3",
+    "grunt-grunticon": "^2.1.6",
+    "grunt-tinypng": "^0.5.3"
+  }
+}
